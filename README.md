@@ -14,6 +14,10 @@ The codebase is organized by Java version:
 - **`com.functional.v17`**: distinct Data Modeling (Sealed Classes, Records)
 - **`com.functional.v21`**: Advanced Pattern Matching (Record Patterns, Switch Expressions)
 
+### 📖 Stream API Reference
+
+For a complete list of Stream API methods used in this project (filter, map, reduce, collectors, etc.), usage examples, and where to find them in the code, see the **[Stream API Reference Guide](STREAM_API_REFERENCE.md)**.
+
 ---
 
 ## 🆚 Side-by-Side Comparisons
