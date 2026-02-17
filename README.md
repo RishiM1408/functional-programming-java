@@ -1,3 +1,8 @@
+<div align="center">
+  <h3>Project Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=RishiM1408-functional-programming&label=Project%20Views&color=0e75b6&style=flat" alt="Project Views" />
+</div>
+
 # Modern Java Functional Programming
 
 A comprehensive, deep-dive educational resource for mastering Functional Programming in Java. This repository tracks the transition from the introduction of Lambdas in Java 8 to the advanced Data-Oriented Programming (DOP) paradigms in Java 21.
